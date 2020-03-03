@@ -1,0 +1,11 @@
+ {
+     "check_url":"http://51.15.224.83:2121/api/check",
+     "book_url":"http://51.15.224.83:2121/api/book",
+     "rate_url":"http://51.15.224.83:2121/api/rate",
+     "login_url":"http://51.15.224.83:2121/api/login",
+     "chet_url":"http://51.15.224.83:2121/api/chet",
+     "enb_url":"http://51.15.224.83:2121/api/enb",
+     "paid_url":"http://51.15.224.83:2121/api/paid",
+     "cancelled_url":"http://51.15.224.83:2121/api/cancelled",
+     "error_url":"http://localhost:8000/api/error"
+}

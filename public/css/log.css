@@ -1,0 +1,9 @@
+.card{
+    border: none;
+}
+.card-header{
+    display: none;
+}
+.form-control{
+    border-radius: 25px;
+}
